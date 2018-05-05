@@ -1,0 +1,12 @@
+C:\Assessment\SkillTracker.WebAPI\SkillTracker.DataAccessLayer\bin\Debug\SkillTracker.DataAccessLayer.dll.config
+C:\Assessment\SkillTracker.WebAPI\SkillTracker.DataAccessLayer\bin\Debug\SkillTracker.DataAccessLayer.dll
+C:\Assessment\SkillTracker.WebAPI\SkillTracker.DataAccessLayer\bin\Debug\SkillTracker.DataAccessLayer.pdb
+C:\Assessment\SkillTracker.WebAPI\SkillTracker.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Assessment\SkillTracker.WebAPI\SkillTracker.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Assessment\SkillTracker.WebAPI\SkillTracker.DataAccessLayer\bin\Debug\SkillTracker.BusinessEntities.dll
+C:\Assessment\SkillTracker.WebAPI\SkillTracker.DataAccessLayer\bin\Debug\SkillTracker.BusinessEntities.pdb
+C:\Assessment\SkillTracker.WebAPI\SkillTracker.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Assessment\SkillTracker.WebAPI\SkillTracker.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Assessment\SkillTracker.WebAPI\SkillTracker.DataAccessLayer\obj\Debug\SkillTracker.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Assessment\SkillTracker.WebAPI\SkillTracker.DataAccessLayer\obj\Debug\SkillTracker.DataAccessLayer.dll
+C:\Assessment\SkillTracker.WebAPI\SkillTracker.DataAccessLayer\obj\Debug\SkillTracker.DataAccessLayer.pdb
